@@ -1,1 +1,1 @@
-{% include instagram.html clientId="ed7b5036b29a48d482376be6c3413d24" userId="260010543" accessToken="260010543.ed7b503.9571dca5a7cb4914b866004d67c96ef0" %}
+{% include instagram.html clientId="455d05f102e14721b4cb32f5bc688a1d" userId="7880179277" accessToken="7880179277.1677ed0.fe7c84f5495a445588347a15f8f68c38" %}
